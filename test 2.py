@@ -4,4 +4,4 @@ if a%2==0:
 elif a<0:
     print("your number is invalid")
 else:
-    print("other types of numbers")
+    print("odd")
